@@ -503,7 +503,7 @@ footer{
     section.fiost>div {
       color:white;
       z-index: 10;
-      padding: -1px;
+      padding: 0px;
     }
 
     .Faq h5 {
