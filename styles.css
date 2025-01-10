@@ -590,6 +590,7 @@ footer{
 
     section.fiost > div :nth-child(1) {
         font-size: 28px;
+        padding-bottom: 54px;
     }
 
     section.fiost > div :nth-child(2) {
